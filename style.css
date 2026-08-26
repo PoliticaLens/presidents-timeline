@@ -16,8 +16,8 @@
   --ink:        #14161c;
   --ink-2:      #1b1e26;
   --ink-3:      #23262f;
-  --paper:      #edece4;
-  --paper-dim:  #b9b7ac;
+  --paper:      #f7f7f7;
+  --paper-dim:  #f5f3ed;
   --brass:      #b8925a;
   --brass-dim:  #7d6742;
   --hair:       #33363f;
@@ -52,8 +52,8 @@ body.light{
   --ink:        #eeece2;
   --ink-2:      #e4e0d2;
   --ink-3:      #dad5c4;
-  --paper:      #1b1e26;
-  --paper-dim:  #5c594c;
+  --paper:      #f7f7f7;
+  --paper-dim:  #f5f3ed;
   --brass:      #8a6a34;
   --brass-dim:  #a98d5c;
   --hair:       #cfc9b8;
