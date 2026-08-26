@@ -191,7 +191,7 @@ function render(){
     const label = document.createElement('div');
     label.className = 'label-cell';
     const numText = p.num.length>1 ? p.num.join(' & ') : p.num[0];
-    label.innerHTML = `<span class="label-num">No. ${numText}</span><span class="label-name">${p.name}</span><span class="label-party">${PARTIES[p.party].label}</span>`;
+    label.innerHTML = `<span class="label-num">${numText}</span><span class="label-name">${p.name}</span><span class="label-party">(${PARTIES[p.party].abbr})</span>`;
     row.appendChild(label);
 
     const area = document.createElement('div');
@@ -297,7 +297,7 @@ function presidentTooltip(p){
     <div class="tt-section-title">Presidency highlights</div>
     <ul>${p.accomplishments.map(a=>`<li>${a}</li>`).join('')}</ul>
   `;
-  return { eyebrow: PARTIES[p.party].label + ' · No. ' + p.num.join(' & '), name: p.name, dates: lifeSpan, bodyHtml };
+  return { eyebrow: `(${PARTIES[p.party].abbr}) · ${p.num.join(' & ')}`, name: p.name, dates: lifeSpan, bodyHtml };
 }
 
 function showTooltip(e, data){
