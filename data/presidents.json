@@ -1,0 +1,2272 @@
+[
+  {
+    "num": [
+      1
+    ],
+    "name": "George Washington",
+    "party": "Unaffiliated",
+    "born": "1732-02-22",
+    "died": "1799-12-14",
+    "terms": [
+      {
+        "start": "1789-04-30",
+        "end": "1797-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Surveyor, colonial Virginia",
+        "start": "1749-01-01",
+        "end": "1752-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Colonel, Virginia Regiment (French & Indian War)",
+        "start": "1754-01-01",
+        "end": "1758-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Virginia House of Burgesses",
+        "start": "1758-01-01",
+        "end": "1774-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Commander-in-Chief, Continental Army",
+        "start": "1775-06-15",
+        "end": "1783-12-23"
+      }
+    ],
+    "career": [
+      "President of the Constitutional Convention (1787)"
+    ],
+    "accomplishments": [
+      "Set the precedent of a two-term presidency",
+      "Established the first Cabinet",
+      "Issued the Neutrality Proclamation (1793)",
+      "Suppressed the Whiskey Rebellion (1794)",
+      "Farewell Address warned against permanent foreign alliances and political factions"
+    ]
+  },
+  {
+    "num": [
+      2
+    ],
+    "name": "John Adams",
+    "party": "Federalist",
+    "born": "1735-10-30",
+    "died": "1826-07-04",
+    "terms": [
+      {
+        "start": "1797-03-04",
+        "end": "1801-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer; defended British soldiers after the Boston Massacre",
+        "start": "1758-01-01",
+        "end": "1774-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Delegate, Continental Congress",
+        "start": "1774-01-01",
+        "end": "1778-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to the Netherlands / France",
+        "start": "1780-01-01",
+        "end": "1788-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1789-04-30",
+        "end": "1797-03-04"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Avoided full-scale war with France during the Quasi-War",
+      "Signed (and later regretted) the Alien and Sedition Acts (1798)",
+      "Built up the U.S. Navy",
+      "Peacefully ceded power after losing re-election in 1800"
+    ]
+  },
+  {
+    "num": [
+      3
+    ],
+    "name": "Thomas Jefferson",
+    "party": "Democratic-Republican",
+    "born": "1743-04-13",
+    "died": "1826-07-04",
+    "terms": [
+      {
+        "start": "1801-03-04",
+        "end": "1809-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Virginia",
+        "start": "1767-01-01",
+        "end": "1774-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Virginia",
+        "start": "1779-06-01",
+        "end": "1781-06-01"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to France",
+        "start": "1785-01-01",
+        "end": "1789-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1790-03-22",
+        "end": "1793-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1797-03-04",
+        "end": "1801-03-04"
+      }
+    ],
+    "career": [
+      "Principal author of the Declaration of Independence (1776)",
+      "Founder of the University of Virginia"
+    ],
+    "accomplishments": [
+      "Louisiana Purchase (1803) doubled the size of the U.S.",
+      "Commissioned the Lewis and Clark Expedition",
+      "Signed the Embargo Act (1807)"
+    ]
+  },
+  {
+    "num": [
+      4
+    ],
+    "name": "James Madison",
+    "party": "Democratic-Republican",
+    "born": "1751-03-16",
+    "died": "1836-06-28",
+    "terms": [
+      {
+        "start": "1809-03-04",
+        "end": "1817-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (VA)",
+        "start": "1789-03-04",
+        "end": "1797-03-04"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1801-05-02",
+        "end": "1809-03-03"
+      }
+    ],
+    "career": [
+      "Chief drafter of the U.S. Constitution — \"Father of the Constitution\"",
+      "Co-author of the Federalist Papers"
+    ],
+    "accomplishments": [
+      "Led the U.S. through the War of 1812",
+      "White House burned by British forces (1814)",
+      "Signed the charter of the Second Bank of the United States (1816)"
+    ]
+  },
+  {
+    "num": [
+      5
+    ],
+    "name": "James Monroe",
+    "party": "Democratic-Republican",
+    "born": "1758-04-28",
+    "died": "1831-07-04",
+    "terms": [
+      {
+        "start": "1817-03-04",
+        "end": "1825-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Continental Army officer (wounded at Trenton)",
+        "start": "1776-01-01",
+        "end": "1778-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Lawyer, studied under Jefferson",
+        "start": "1780-01-01",
+        "end": "1782-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (VA)",
+        "start": "1790-01-01",
+        "end": "1794-05-27"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to France / Britain",
+        "start": "1794-01-01",
+        "end": "1807-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Virginia",
+        "start": "1799-01-01",
+        "end": "1802-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1811-04-06",
+        "end": "1817-03-03"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of War",
+        "start": "1814-09-27",
+        "end": "1815-03-02"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Monroe Doctrine (1823) opposed European colonization in the Americas",
+      "Missouri Compromise (1820) signed into law",
+      "Acquired Florida from Spain (1819)",
+      "Presided over the \"Era of Good Feelings\""
+    ]
+  },
+  {
+    "num": [
+      6
+    ],
+    "name": "John Quincy Adams",
+    "party": "Democratic-Republican",
+    "born": "1767-07-11",
+    "died": "1848-02-23",
+    "terms": [
+      {
+        "start": "1825-03-04",
+        "end": "1829-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "appointed",
+        "label": "Minister to the Netherlands, Prussia, Russia & Britain",
+        "start": "1794-01-01",
+        "end": "1817-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (MA)",
+        "start": "1803-01-01",
+        "end": "1808-06-08"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1817-09-22",
+        "end": "1825-03-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (MA)",
+        "start": "1831-03-04",
+        "end": "1848-02-23"
+      }
+    ],
+    "career": [
+      "Diplomat by his teens"
+    ],
+    "accomplishments": [
+      "Pushed federally funded roads, canals, and a national university",
+      "Argued the Amistad case before the Supreme Court (1841), post-presidency",
+      "Collapsed and died on the floor of the House (1848)"
+    ]
+  },
+  {
+    "num": [
+      7
+    ],
+    "name": "Andrew Jackson",
+    "party": "Democratic",
+    "born": "1767-03-15",
+    "died": "1845-06-08",
+    "terms": [
+      {
+        "start": "1829-03-04",
+        "end": "1837-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer & public prosecutor, frontier Tennessee",
+        "start": "1787-01-01",
+        "end": "1796-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (TN)",
+        "start": "1796-12-05",
+        "end": "1797-09-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (TN)",
+        "start": "1797-09-26",
+        "end": "1798-04-01"
+      },
+      {
+        "type": "appointed",
+        "label": "Judge, Tennessee Superior Court",
+        "start": "1798-01-01",
+        "end": "1804-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Major General; Battle of New Orleans (War of 1812)",
+        "start": "1812-01-01",
+        "end": "1815-01-08"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (TN), second term",
+        "start": "1823-03-04",
+        "end": "1825-10-01"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Signed the Indian Removal Act (1830), leading to the Trail of Tears",
+      "Vetoed re-charter of the Second Bank of the United States",
+      "Faced down the Nullification Crisis with South Carolina (1832–33)"
+    ]
+  },
+  {
+    "num": [
+      8
+    ],
+    "name": "Martin Van Buren",
+    "party": "Democratic",
+    "born": "1782-12-05",
+    "died": "1862-07-24",
+    "terms": [
+      {
+        "start": "1837-03-04",
+        "end": "1841-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, New York",
+        "start": "1803-01-01",
+        "end": "1812-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Attorney General of New York",
+        "start": "1815-01-01",
+        "end": "1819-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (NY)",
+        "start": "1821-01-01",
+        "end": "1828-12-20"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of New York",
+        "start": "1829-01-01",
+        "end": "1829-03-12"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1829-03-28",
+        "end": "1831-05-23"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1833-03-04",
+        "end": "1837-03-04"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Presidency dominated by the Panic of 1837",
+      "Established an independent U.S. Treasury",
+      "Avoided war with Britain over the Canadian border"
+    ]
+  },
+  {
+    "num": [
+      9
+    ],
+    "name": "William Henry Harrison",
+    "party": "Whig",
+    "born": "1773-02-09",
+    "died": "1841-04-04",
+    "terms": [
+      {
+        "start": "1841-03-04",
+        "end": "1841-04-04",
+        "endReason": "died"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Army officer; Battle of Tippecanoe & War of 1812",
+        "start": "1791-01-01",
+        "end": "1814-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Governor of the Indiana Territory",
+        "start": "1801-01-01",
+        "end": "1812-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (OH)",
+        "start": "1816-10-08",
+        "end": "1819-03-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (OH)",
+        "start": "1825-03-04",
+        "end": "1828-05-20"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to Gran Colombia",
+        "start": "1828-01-01",
+        "end": "1829-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Delivered the longest inaugural address in history, then died of illness 31 days later — the shortest presidency on record"
+    ]
+  },
+  {
+    "num": [
+      10
+    ],
+    "name": "John Tyler",
+    "party": "Whig",
+    "born": "1790-03-29",
+    "died": "1862-01-18",
+    "terms": [
+      {
+        "start": "1841-04-04",
+        "end": "1845-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Virginia",
+        "start": "1809-01-01",
+        "end": "1816-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (VA)",
+        "start": "1817-01-01",
+        "end": "1821-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Virginia",
+        "start": "1825-01-01",
+        "end": "1827-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (VA)",
+        "start": "1827-01-01",
+        "end": "1836-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1841-03-04",
+        "end": "1841-04-04"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "First VP to succeed a president who died in office, establishing the succession precedent (\"Tyler Precedent\")",
+      "Annexation of Texas (1845)",
+      "Expelled from the Whig Party while in office"
+    ]
+  },
+  {
+    "num": [
+      11
+    ],
+    "name": "James K. Polk",
+    "party": "Democratic",
+    "born": "1795-11-02",
+    "died": "1849-06-15",
+    "terms": [
+      {
+        "start": "1845-03-04",
+        "end": "1849-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Tennessee",
+        "start": "1820-01-01",
+        "end": "1825-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (TN), Speaker",
+        "start": "1825-03-04",
+        "end": "1839-03-04"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Tennessee",
+        "start": "1839-01-01",
+        "end": "1841-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Mexican-American War (1846–48) added vast Southwest territory",
+      "Settled the Oregon boundary dispute with Britain at the 49th parallel",
+      "Did not seek re-election, as promised; died three months after leaving office"
+    ]
+  },
+  {
+    "num": [
+      12
+    ],
+    "name": "Zachary Taylor",
+    "party": "Whig",
+    "born": "1784-11-24",
+    "died": "1850-07-09",
+    "terms": [
+      {
+        "start": "1849-03-04",
+        "end": "1850-07-09",
+        "endReason": "died"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "U.S. Army career, incl. Mexican-American War command",
+        "start": "1808-01-01",
+        "end": "1848-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Opposed the spread of slavery into new territories",
+      "Died in office of an acute illness after 16 months"
+    ]
+  },
+  {
+    "num": [
+      13
+    ],
+    "name": "Millard Fillmore",
+    "party": "Whig",
+    "born": "1800-01-07",
+    "died": "1874-03-08",
+    "terms": [
+      {
+        "start": "1850-07-09",
+        "end": "1853-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, upstate New York",
+        "start": "1823-01-01",
+        "end": "1832-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (NY)",
+        "start": "1833-01-01",
+        "end": "1843-03-03"
+      },
+      {
+        "type": "elected-state",
+        "label": "New York State Comptroller",
+        "start": "1848-01-01",
+        "end": "1849-02-20"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1849-03-04",
+        "end": "1850-07-09"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Signed the Compromise of 1850, delaying sectional crisis over slavery",
+      "Sent Commodore Perry to open trade with Japan (1852)"
+    ]
+  },
+  {
+    "num": [
+      14
+    ],
+    "name": "Franklin Pierce",
+    "party": "Democratic",
+    "born": "1804-11-23",
+    "died": "1869-10-08",
+    "terms": [
+      {
+        "start": "1853-03-04",
+        "end": "1857-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, New Hampshire",
+        "start": "1827-01-01",
+        "end": "1832-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (NH)",
+        "start": "1833-01-01",
+        "end": "1837-03-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (NH)",
+        "start": "1837-03-04",
+        "end": "1842-02-28"
+      },
+      {
+        "type": "military",
+        "label": "Brigadier General, Mexican-American War",
+        "start": "1847-01-01",
+        "end": "1848-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Signed the Kansas-Nebraska Act (1854), deepening sectional conflict over slavery",
+      "Gadsden Purchase (1853) added land to the Southwest"
+    ]
+  },
+  {
+    "num": [
+      15
+    ],
+    "name": "James Buchanan",
+    "party": "Democratic",
+    "born": "1791-04-23",
+    "died": "1868-06-01",
+    "terms": [
+      {
+        "start": "1857-03-04",
+        "end": "1861-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Pennsylvania",
+        "start": "1812-01-01",
+        "end": "1820-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Militia volunteer, War of 1812",
+        "start": "1814-01-01",
+        "end": "1814-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (PA)",
+        "start": "1821-01-01",
+        "end": "1831-03-03"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to Russia",
+        "start": "1832-01-01",
+        "end": "1834-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (PA)",
+        "start": "1834-12-06",
+        "end": "1845-03-03"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of State",
+        "start": "1845-03-10",
+        "end": "1849-03-07"
+      },
+      {
+        "type": "appointed",
+        "label": "Minister to Britain",
+        "start": "1853-01-01",
+        "end": "1856-12-31"
+      }
+    ],
+    "career": [
+      "Only president never to marry"
+    ],
+    "accomplishments": [
+      "Presided over the country's fracture in the run-up to the Civil War",
+      "Dred Scott decision handed down days into his term (1857)",
+      "Left office as seven states had already seceded"
+    ]
+  },
+  {
+    "num": [
+      16
+    ],
+    "name": "Abraham Lincoln",
+    "party": "Republican",
+    "born": "1809-02-12",
+    "died": "1865-04-15",
+    "terms": [
+      {
+        "start": "1861-03-04",
+        "end": "1865-04-15",
+        "endReason": "assassinated"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Militia captain, Black Hawk War",
+        "start": "1832-04-01",
+        "end": "1832-07-10"
+      },
+      {
+        "type": "elected-state",
+        "label": "Illinois House of Representatives",
+        "start": "1834-01-01",
+        "end": "1842-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Self-taught lawyer, Illinois",
+        "start": "1837-01-01",
+        "end": "1860-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (IL)",
+        "start": "1847-03-04",
+        "end": "1849-03-03"
+      }
+    ],
+    "career": [
+      "Famed 1858 Senate debates with Stephen Douglas"
+    ],
+    "accomplishments": [
+      "Preserved the Union through the Civil War (1861–65)",
+      "Emancipation Proclamation (1863)",
+      "Gettysburg Address (1863)",
+      "Signed the 13th Amendment abolishing slavery",
+      "Assassinated by John Wilkes Booth days after Confederate surrender"
+    ]
+  },
+  {
+    "num": [
+      17
+    ],
+    "name": "Andrew Johnson",
+    "party": "Democratic",
+    "born": "1808-12-29",
+    "died": "1875-07-31",
+    "terms": [
+      {
+        "start": "1865-04-15",
+        "end": "1869-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Tailor, Greeneville, Tennessee",
+        "start": "1822-01-01",
+        "end": "1843-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Tennessee House & Senate",
+        "start": "1835-01-01",
+        "end": "1843-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (TN)",
+        "start": "1843-03-04",
+        "end": "1853-03-03"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Tennessee",
+        "start": "1853-01-01",
+        "end": "1857-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (TN)",
+        "start": "1857-03-04",
+        "end": "1862-03-01"
+      },
+      {
+        "type": "appointed",
+        "label": "Military Governor of Tennessee",
+        "start": "1862-03-01",
+        "end": "1865-03-04"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1865-03-04",
+        "end": "1865-04-15"
+      }
+    ],
+    "career": [
+      "Self-educated"
+    ],
+    "accomplishments": [
+      "Oversaw early Reconstruction after Lincoln's assassination",
+      "First president impeached by the House (1868); acquitted by one Senate vote",
+      "Clashed repeatedly with the Radical Republican Congress"
+    ]
+  },
+  {
+    "num": [
+      18
+    ],
+    "name": "Ulysses S. Grant",
+    "party": "Republican",
+    "born": "1822-04-27",
+    "died": "1885-07-23",
+    "terms": [
+      {
+        "start": "1869-03-04",
+        "end": "1877-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "U.S. Army, Mexican-American War",
+        "start": "1843-01-01",
+        "end": "1854-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Farmer, then leather-goods clerk (repeated business failures)",
+        "start": "1854-01-01",
+        "end": "1861-04-01"
+      },
+      {
+        "type": "military",
+        "label": "Union Army, Civil War; Commanding General",
+        "start": "1861-04-01",
+        "end": "1869-03-03"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of War (ad interim)",
+        "start": "1867-08-12",
+        "end": "1868-01-14"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Worked to enforce Reconstruction and civil rights in the South",
+      "Signed the Enforcement Acts against the Ku Klux Klan",
+      "Administration troubled by financial scandals (e.g., Crédit Mobilier, Whiskey Ring)"
+    ]
+  },
+  {
+    "num": [
+      19
+    ],
+    "name": "Rutherford B. Hayes",
+    "party": "Republican",
+    "born": "1822-10-04",
+    "died": "1893-01-17",
+    "terms": [
+      {
+        "start": "1877-03-04",
+        "end": "1881-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Cincinnati",
+        "start": "1845-01-01",
+        "end": "1861-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Union Army officer, wounded in action",
+        "start": "1861-01-01",
+        "end": "1865-06-08"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (OH)",
+        "start": "1865-01-01",
+        "end": "1867-07-20"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Ohio",
+        "start": "1868-01-01",
+        "end": "1877-01-12"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Won a bitterly disputed 1876 election settled by the Compromise of 1877",
+      "Ended Reconstruction by withdrawing federal troops from the South",
+      "Pledged (and kept his pledge) to serve only one term"
+    ]
+  },
+  {
+    "num": [
+      20
+    ],
+    "name": "James A. Garfield",
+    "party": "Republican",
+    "born": "1831-11-19",
+    "died": "1881-09-19",
+    "terms": [
+      {
+        "start": "1881-03-04",
+        "end": "1881-09-19",
+        "endReason": "assassinated"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Teacher, then president of Hiram College (Eclectic Institute)",
+        "start": "1856-01-01",
+        "end": "1861-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Union Army major general",
+        "start": "1861-01-01",
+        "end": "1863-12-05"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (OH)",
+        "start": "1863-03-04",
+        "end": "1881-03-03"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Shot by a disgruntled office-seeker four months into office; lingered 79 days before dying",
+      "Death spurred civil-service reform (Pendleton Act, 1883)"
+    ]
+  },
+  {
+    "num": [
+      21
+    ],
+    "name": "Chester A. Arthur",
+    "party": "Republican",
+    "born": "1829-10-05",
+    "died": "1886-11-18",
+    "terms": [
+      {
+        "start": "1881-09-19",
+        "end": "1885-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, New York City",
+        "start": "1854-01-01",
+        "end": "1871-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Quartermaster General, New York Militia (Civil War, non-combat)",
+        "start": "1862-01-01",
+        "end": "1863-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Collector of the Port of New York",
+        "start": "1871-01-01",
+        "end": "1878-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1881-03-04",
+        "end": "1881-09-19"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Signed the Pendleton Civil Service Reform Act (1883)",
+      "Modernized the U.S. Navy",
+      "Signed the Chinese Exclusion Act (1882)"
+    ]
+  },
+  {
+    "num": [
+      22,
+      24
+    ],
+    "name": "Grover Cleveland",
+    "party": "Democratic",
+    "born": "1837-03-18",
+    "died": "1908-06-24",
+    "terms": [
+      {
+        "start": "1885-03-04",
+        "end": "1889-03-04"
+      },
+      {
+        "start": "1893-03-04",
+        "end": "1897-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Buffalo, New York",
+        "start": "1859-01-01",
+        "end": "1870-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Sheriff of Erie County, NY",
+        "start": "1871-01-01",
+        "end": "1873-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Mayor of Buffalo",
+        "start": "1882-01-01",
+        "end": "1882-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of New York",
+        "start": "1883-01-01",
+        "end": "1885-01-06"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Only president to serve two non-consecutive terms",
+      "Vetoed hundreds of private pension bills he viewed as fraudulent",
+      "Second term dominated by the Panic of 1893",
+      "Secretly had cancer surgery aboard a yacht (1893) to hide it from the public"
+    ]
+  },
+  {
+    "num": [
+      23
+    ],
+    "name": "Benjamin Harrison",
+    "party": "Republican",
+    "born": "1833-08-20",
+    "died": "1901-03-13",
+    "terms": [
+      {
+        "start": "1889-03-04",
+        "end": "1893-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Indianapolis",
+        "start": "1854-01-01",
+        "end": "1862-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Union Army brigadier general",
+        "start": "1862-01-01",
+        "end": "1865-06-08"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (IN)",
+        "start": "1881-03-04",
+        "end": "1887-03-03"
+      }
+    ],
+    "career": [
+      "Grandson of President William Henry Harrison"
+    ],
+    "accomplishments": [
+      "Signed the Sherman Antitrust Act (1890)",
+      "Admitted six new states to the Union",
+      "Sherman Silver Purchase Act (1890)"
+    ]
+  },
+  {
+    "num": [
+      25
+    ],
+    "name": "William McKinley",
+    "party": "Republican",
+    "born": "1843-01-29",
+    "died": "1901-09-14",
+    "terms": [
+      {
+        "start": "1897-03-04",
+        "end": "1901-09-14",
+        "endReason": "assassinated"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Union Army, incl. Antietam",
+        "start": "1861-01-01",
+        "end": "1865-07-26"
+      },
+      {
+        "type": "career",
+        "label": "Lawyer, Canton, Ohio",
+        "start": "1867-01-01",
+        "end": "1876-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (OH)",
+        "start": "1877-03-04",
+        "end": "1891-03-03"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Ohio",
+        "start": "1892-01-01",
+        "end": "1896-01-13"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Led the U.S. to victory in the Spanish-American War (1898)",
+      "Acquired the Philippines, Puerto Rico, and Guam",
+      "Assassinated by an anarchist at the Pan-American Exposition, Buffalo"
+    ]
+  },
+  {
+    "num": [
+      26
+    ],
+    "name": "Theodore Roosevelt",
+    "party": "Republican",
+    "born": "1858-10-27",
+    "died": "1919-01-06",
+    "terms": [
+      {
+        "start": "1901-09-14",
+        "end": "1909-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "elected-state",
+        "label": "New York State Assembly",
+        "start": "1882-01-01",
+        "end": "1884-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Cattle rancher, Dakota Territory",
+        "start": "1884-01-01",
+        "end": "1886-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "NYC Police Commissioner",
+        "start": "1895-01-01",
+        "end": "1897-04-19"
+      },
+      {
+        "type": "appointed",
+        "label": "Assistant Secretary of the Navy",
+        "start": "1897-04-19",
+        "end": "1898-05-06"
+      },
+      {
+        "type": "military",
+        "label": "Colonel, Rough Riders (Spanish-American War)",
+        "start": "1898-05-06",
+        "end": "1898-09-15"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of New York",
+        "start": "1899-01-01",
+        "end": "1900-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1901-03-04",
+        "end": "1901-09-14"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Trust-busting under the Sherman Antitrust Act",
+      "Built the Panama Canal",
+      "Vast expansion of national parks and forests",
+      "Negotiated the end of the Russo-Japanese War — Nobel Peace Prize (1906)",
+      "Youngest president ever, at 42"
+    ]
+  },
+  {
+    "num": [
+      27
+    ],
+    "name": "William Howard Taft",
+    "party": "Republican",
+    "born": "1857-09-15",
+    "died": "1930-03-08",
+    "terms": [
+      {
+        "start": "1909-03-04",
+        "end": "1913-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Cincinnati",
+        "start": "1880-01-01",
+        "end": "1887-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Federal judge, Sixth Circuit",
+        "start": "1892-01-01",
+        "end": "1900-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Governor-General of the Philippines",
+        "start": "1901-01-01",
+        "end": "1904-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of War",
+        "start": "1904-02-01",
+        "end": "1908-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Chief Justice of the United States",
+        "start": "1921-07-11",
+        "end": "1930-02-03"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Continued antitrust enforcement, including breakup of Standard Oil (1911)",
+      "16th Amendment (federal income tax) proposed under his term",
+      "Only person to serve as both President and Chief Justice"
+    ]
+  },
+  {
+    "num": [
+      28
+    ],
+    "name": "Woodrow Wilson",
+    "party": "Democratic",
+    "born": "1856-12-28",
+    "died": "1924-02-03",
+    "terms": [
+      {
+        "start": "1913-03-04",
+        "end": "1921-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, then professor of political science",
+        "start": "1882-01-01",
+        "end": "1885-12-31"
+      },
+      {
+        "type": "career",
+        "label": "President of Princeton University",
+        "start": "1902-01-01",
+        "end": "1910-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of New Jersey",
+        "start": "1911-01-17",
+        "end": "1913-03-01"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Created the Federal Reserve System (1913)",
+      "Led the U.S. through World War I",
+      "Proposed the League of Nations; Nobel Peace Prize (1919)",
+      "Suffered a debilitating stroke in office (1919), largely concealed from the public"
+    ]
+  },
+  {
+    "num": [
+      29
+    ],
+    "name": "Warren G. Harding",
+    "party": "Republican",
+    "born": "1865-11-02",
+    "died": "1923-08-02",
+    "terms": [
+      {
+        "start": "1921-03-04",
+        "end": "1923-08-02",
+        "endReason": "died"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Newspaper publisher, the Marion Star",
+        "start": "1884-01-01",
+        "end": "1915-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Ohio State Senate",
+        "start": "1899-01-01",
+        "end": "1903-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Lieutenant Governor of Ohio",
+        "start": "1904-01-01",
+        "end": "1906-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (OH)",
+        "start": "1915-03-04",
+        "end": "1921-01-13"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Presided over a postwar economic boom (\"Return to Normalcy\")",
+      "Administration later marred by the Teapot Dome scandal, exposed after his death",
+      "Died suddenly of a heart attack while traveling in San Francisco"
+    ]
+  },
+  {
+    "num": [
+      30
+    ],
+    "name": "Calvin Coolidge",
+    "party": "Republican",
+    "born": "1872-07-04",
+    "died": "1933-01-05",
+    "terms": [
+      {
+        "start": "1923-08-02",
+        "end": "1929-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Northampton, Massachusetts",
+        "start": "1897-01-01",
+        "end": "1907-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Massachusetts state legislature & Mayor of Northampton",
+        "start": "1907-01-01",
+        "end": "1915-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Lieutenant Governor of Massachusetts",
+        "start": "1916-01-01",
+        "end": "1918-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Massachusetts",
+        "start": "1919-01-01",
+        "end": "1921-01-06"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1921-03-04",
+        "end": "1923-08-02"
+      }
+    ],
+    "career": [
+      "Broke the Boston police strike as governor (1919)",
+      "Nicknamed \"Silent Cal\""
+    ],
+    "accomplishments": [
+      "Presided over the Roaring Twenties economic boom",
+      "Cut federal taxes and spending"
+    ]
+  },
+  {
+    "num": [
+      31
+    ],
+    "name": "Herbert Hoover",
+    "party": "Republican",
+    "born": "1874-08-10",
+    "died": "1964-10-20",
+    "terms": [
+      {
+        "start": "1929-03-04",
+        "end": "1933-03-04"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Mining engineer and executive, worldwide",
+        "start": "1897-01-01",
+        "end": "1913-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Head of Belgian & European war relief efforts",
+        "start": "1914-01-01",
+        "end": "1919-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Secretary of Commerce",
+        "start": "1921-03-05",
+        "end": "1928-08-21"
+      }
+    ],
+    "career": [
+      "Later led relief commissions for Truman and Eisenhower"
+    ],
+    "accomplishments": [
+      "Stock market crashed seven months into his term (Oct. 1929)",
+      "Response to the Great Depression widely seen as inadequate"
+    ]
+  },
+  {
+    "num": [
+      32
+    ],
+    "name": "Franklin D. Roosevelt",
+    "party": "Democratic",
+    "born": "1882-01-30",
+    "died": "1945-04-12",
+    "terms": [
+      {
+        "start": "1933-03-04",
+        "end": "1945-04-12",
+        "endReason": "died"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, New York City",
+        "start": "1907-01-01",
+        "end": "1910-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "New York State Senate",
+        "start": "1911-01-01",
+        "end": "1913-03-17"
+      },
+      {
+        "type": "appointed",
+        "label": "Assistant Secretary of the Navy",
+        "start": "1913-03-17",
+        "end": "1920-08-26"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of New York",
+        "start": "1929-01-01",
+        "end": "1932-12-31"
+      }
+    ],
+    "career": [
+      "Contracted polio in 1921, largely paralyzed from the waist down"
+    ],
+    "accomplishments": [
+      "The New Deal (1933–39) reshaped the federal government's role in the economy",
+      "Led the Allies through most of World War II",
+      "Only president elected to four terms (led to the 22nd Amendment)",
+      "Died in office weeks before Germany's surrender"
+    ]
+  },
+  {
+    "num": [
+      33
+    ],
+    "name": "Harry S. Truman",
+    "party": "Democratic",
+    "born": "1884-05-08",
+    "died": "1972-12-26",
+    "terms": [
+      {
+        "start": "1945-04-12",
+        "end": "1953-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Farmer, Missouri",
+        "start": "1906-01-01",
+        "end": "1917-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Army artillery captain, WWI",
+        "start": "1917-01-01",
+        "end": "1919-05-06"
+      },
+      {
+        "type": "career",
+        "label": "Co-owner, men's clothing store (business failed, 1922)",
+        "start": "1919-01-01",
+        "end": "1922-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Jackson County Judge (administrative role, MO)",
+        "start": "1922-01-01",
+        "end": "1934-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (MO)",
+        "start": "1935-01-03",
+        "end": "1945-01-17"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1945-01-20",
+        "end": "1945-04-12"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Ordered the atomic bombings of Hiroshima and Nagasaki, ending WWII",
+      "Launched the Marshall Plan and the Truman Doctrine (Cold War containment)",
+      "Recognized the State of Israel (1948)",
+      "Led the U.S. into the Korean War",
+      "Desegregated the U.S. armed forces (1948)"
+    ]
+  },
+  {
+    "num": [
+      34
+    ],
+    "name": "Dwight D. Eisenhower",
+    "party": "Republican",
+    "born": "1890-10-14",
+    "died": "1969-03-28",
+    "terms": [
+      {
+        "start": "1953-01-20",
+        "end": "1961-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "U.S. Army career; Supreme Allied Commander, Europe (WWII)",
+        "start": "1915-01-01",
+        "end": "1948-02-07"
+      },
+      {
+        "type": "career",
+        "label": "President of Columbia University",
+        "start": "1948-01-01",
+        "end": "1950-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Supreme Commander, NATO forces",
+        "start": "1951-01-01",
+        "end": "1952-05-30"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Oversaw D-Day and Allied victory in Europe as wartime commander",
+      "Ended the Korean War",
+      "Built the Interstate Highway System (1956)",
+      "Sent federal troops to enforce school desegregation in Little Rock (1957)",
+      "Warned of the \"military-industrial complex\" in his farewell address"
+    ]
+  },
+  {
+    "num": [
+      35
+    ],
+    "name": "John F. Kennedy",
+    "party": "Democratic",
+    "born": "1917-05-29",
+    "died": "1963-11-22",
+    "terms": [
+      {
+        "start": "1961-01-20",
+        "end": "1963-11-22",
+        "endReason": "assassinated"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Navy lieutenant; PT-109 (WWII)",
+        "start": "1941-01-01",
+        "end": "1945-01-01"
+      },
+      {
+        "type": "career",
+        "label": "Newspaper correspondent, briefly",
+        "start": "1945-01-01",
+        "end": "1946-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (MA)",
+        "start": "1947-01-03",
+        "end": "1953-01-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (MA)",
+        "start": "1953-01-03",
+        "end": "1960-12-22"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Navigated the Cuban Missile Crisis (1962)",
+      "Launched the Apollo program's goal of landing on the Moon",
+      "Established the Peace Corps",
+      "Assassinated in Dallas, Texas — youngest elected president to die in office"
+    ]
+  },
+  {
+    "num": [
+      36
+    ],
+    "name": "Lyndon B. Johnson",
+    "party": "Democratic",
+    "born": "1908-08-27",
+    "died": "1973-01-22",
+    "terms": [
+      {
+        "start": "1963-11-22",
+        "end": "1969-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Schoolteacher, Texas",
+        "start": "1928-01-01",
+        "end": "1930-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Navy Reserve, brief active duty (WWII)",
+        "start": "1941-12-01",
+        "end": "1942-07-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (TX)",
+        "start": "1937-04-10",
+        "end": "1949-01-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (TX), Majority Leader",
+        "start": "1949-01-03",
+        "end": "1961-01-03"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1961-01-20",
+        "end": "1963-11-22"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Civil Rights Act (1964) and Voting Rights Act (1965)",
+      "Great Society programs — Medicare, Medicaid, War on Poverty",
+      "Dramatically escalated U.S. involvement in the Vietnam War",
+      "Chose not to seek re-election in 1968 amid war unrest"
+    ]
+  },
+  {
+    "num": [
+      37
+    ],
+    "name": "Richard Nixon",
+    "party": "Republican",
+    "born": "1913-01-09",
+    "died": "1994-04-22",
+    "terms": [
+      {
+        "start": "1969-01-20",
+        "end": "1974-08-09",
+        "endReason": "resigned"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, California",
+        "start": "1937-01-01",
+        "end": "1942-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Navy lieutenant commander (WWII, Pacific)",
+        "start": "1942-01-01",
+        "end": "1946-01-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (CA)",
+        "start": "1947-01-03",
+        "end": "1950-11-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (CA)",
+        "start": "1950-12-01",
+        "end": "1953-01-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1953-01-20",
+        "end": "1961-01-20"
+      },
+      {
+        "type": "career",
+        "label": "Wall Street lawyer, private practice",
+        "start": "1963-01-01",
+        "end": "1968-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Opened diplomatic relations with China (1972)",
+      "Ended U.S. combat involvement in Vietnam",
+      "Established the EPA (1970)",
+      "Only president to resign, over the Watergate scandal"
+    ]
+  },
+  {
+    "num": [
+      38
+    ],
+    "name": "Gerald Ford",
+    "party": "Republican",
+    "born": "1913-07-14",
+    "died": "2006-12-26",
+    "terms": [
+      {
+        "start": "1974-08-09",
+        "end": "1977-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Assistant football coach, Yale; lawyer, Michigan",
+        "start": "1935-01-01",
+        "end": "1941-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Navy lieutenant commander (WWII, Pacific)",
+        "start": "1942-01-01",
+        "end": "1946-01-01"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (MI), Minority Leader",
+        "start": "1949-01-03",
+        "end": "1973-12-06"
+      },
+      {
+        "type": "appointed",
+        "label": "Vice President (confirmed under 25th Amendment)",
+        "start": "1973-12-06",
+        "end": "1974-08-09"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Only president never elected as president or vice president",
+      "Pardoned Nixon a month into office, a deeply controversial decision",
+      "Signed the Helsinki Accords (1975)"
+    ]
+  },
+  {
+    "num": [
+      39
+    ],
+    "name": "Jimmy Carter",
+    "party": "Democratic",
+    "born": "1924-10-01",
+    "died": "2024-12-29",
+    "terms": [
+      {
+        "start": "1977-01-20",
+        "end": "1981-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Navy submarine officer",
+        "start": "1946-01-01",
+        "end": "1953-01-01"
+      },
+      {
+        "type": "career",
+        "label": "Peanut farmer & warehouse businessman, Georgia",
+        "start": "1953-01-01",
+        "end": "1962-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Georgia State Senate",
+        "start": "1963-01-01",
+        "end": "1967-01-01"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Georgia",
+        "start": "1971-01-12",
+        "end": "1975-01-14"
+      },
+      {
+        "type": "career",
+        "label": "Post-presidency: Carter Center & Habitat for Humanity",
+        "start": "1982-01-01",
+        "end": "2020-12-31"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Brokered the Camp David Accords between Egypt and Israel (1978)",
+      "Iran Hostage Crisis dominated his final 444 days in office",
+      "Established the Departments of Energy and Education",
+      "Awarded the Nobel Peace Prize (2002) for post-presidency work"
+    ]
+  },
+  {
+    "num": [
+      40
+    ],
+    "name": "Ronald Reagan",
+    "party": "Republican",
+    "born": "1911-02-06",
+    "died": "2004-06-05",
+    "terms": [
+      {
+        "start": "1981-01-20",
+        "end": "1989-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Radio sports announcer",
+        "start": "1932-01-01",
+        "end": "1937-12-31"
+      },
+      {
+        "type": "military",
+        "label": "Army Air Forces, First Motion Picture Unit (WWII)",
+        "start": "1942-01-01",
+        "end": "1945-01-01"
+      },
+      {
+        "type": "career",
+        "label": "Hollywood actor; President of the Screen Actors Guild",
+        "start": "1937-01-01",
+        "end": "1964-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of California",
+        "start": "1967-01-02",
+        "end": "1975-01-06"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Survived an assassination attempt 69 days into office (1981)",
+      "Major tax cuts and deregulation (\"Reaganomics\")",
+      "Escalated the arms race, then signed the INF Treaty with Gorbachev (1987)",
+      "Called for the Berlin Wall to be torn down (1987), which fell in 1989"
+    ]
+  },
+  {
+    "num": [
+      41
+    ],
+    "name": "George H. W. Bush",
+    "party": "Republican",
+    "born": "1924-06-12",
+    "died": "2018-11-30",
+    "terms": [
+      {
+        "start": "1989-01-20",
+        "end": "1993-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Navy pilot, shot down in combat (WWII)",
+        "start": "1942-01-01",
+        "end": "1945-01-01"
+      },
+      {
+        "type": "career",
+        "label": "Oil businessman, co-founder of Zapata Petroleum",
+        "start": "1951-01-01",
+        "end": "1966-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. House of Representatives (TX)",
+        "start": "1967-01-03",
+        "end": "1971-01-03"
+      },
+      {
+        "type": "appointed",
+        "label": "Ambassador to the United Nations",
+        "start": "1971-01-01",
+        "end": "1973-01-01"
+      },
+      {
+        "type": "appointed",
+        "label": "Envoy to China",
+        "start": "1974-01-01",
+        "end": "1975-12-31"
+      },
+      {
+        "type": "appointed",
+        "label": "Director of Central Intelligence (CIA)",
+        "start": "1976-01-30",
+        "end": "1977-01-20"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "1981-01-20",
+        "end": "1989-01-20"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Led the Gulf War coalition against Iraq (1991)",
+      "Presided over the peaceful end of the Cold War and Soviet collapse",
+      "Signed the Americans with Disabilities Act (1990)"
+    ]
+  },
+  {
+    "num": [
+      42
+    ],
+    "name": "Bill Clinton",
+    "party": "Democratic",
+    "born": "1946-08-19",
+    "died": null,
+    "terms": [
+      {
+        "start": "1993-01-20",
+        "end": "2001-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Law professor, University of Arkansas",
+        "start": "1974-01-01",
+        "end": "1976-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Attorney General of Arkansas",
+        "start": "1977-01-01",
+        "end": "1979-01-09"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Arkansas",
+        "start": "1979-01-09",
+        "end": "1992-12-12"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Signed NAFTA (1994)",
+      "Balanced the federal budget, produced a budget surplus",
+      "Welfare reform (1996)",
+      "Impeached by the House over the Lewinsky scandal (1998); acquitted by the Senate"
+    ]
+  },
+  {
+    "num": [
+      43
+    ],
+    "name": "George W. Bush",
+    "party": "Republican",
+    "born": "1946-07-06",
+    "died": null,
+    "terms": [
+      {
+        "start": "2001-01-20",
+        "end": "2009-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "military",
+        "label": "Texas Air National Guard",
+        "start": "1968-01-01",
+        "end": "1974-01-01"
+      },
+      {
+        "type": "career",
+        "label": "Oil businessman, Texas",
+        "start": "1978-01-01",
+        "end": "1986-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Managing partner, Texas Rangers baseball team",
+        "start": "1989-01-01",
+        "end": "1994-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Governor of Texas",
+        "start": "1995-01-17",
+        "end": "2000-12-21"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Led the response to the September 11, 2001 attacks",
+      "Launched the wars in Afghanistan and Iraq",
+      "No Child Left Behind Act (2001)",
+      "Managed the federal response to the 2008 financial crisis (TARP)"
+    ]
+  },
+  {
+    "num": [
+      44
+    ],
+    "name": "Barack Obama",
+    "party": "Democratic",
+    "born": "1961-08-04",
+    "died": null,
+    "terms": [
+      {
+        "start": "2009-01-20",
+        "end": "2017-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Community organizer, Chicago",
+        "start": "1985-01-01",
+        "end": "1988-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Civil rights lawyer & law lecturer",
+        "start": "1993-01-01",
+        "end": "2004-12-31"
+      },
+      {
+        "type": "elected-state",
+        "label": "Illinois State Senate",
+        "start": "1997-01-08",
+        "end": "2004-11-04"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (IL)",
+        "start": "2005-01-03",
+        "end": "2008-11-16"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Affordable Care Act (2010)",
+      "Presided over recovery from the 2008 financial crisis",
+      "Ordered the operation that killed Osama bin Laden (2011)",
+      "Normalized relations with Cuba; joined the Paris Climate Agreement",
+      "First African American president"
+    ]
+  },
+  {
+    "num": [
+      45,
+      47
+    ],
+    "name": "Donald Trump",
+    "party": "Republican",
+    "born": "1946-06-14",
+    "died": null,
+    "terms": [
+      {
+        "start": "2017-01-20",
+        "end": "2021-01-20"
+      },
+      {
+        "start": "2025-01-20",
+        "end": null
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Real estate developer, Trump Organization",
+        "start": "1968-01-01",
+        "end": "2016-12-31"
+      },
+      {
+        "type": "career",
+        "label": "Television host, \"The Apprentice\"",
+        "start": "2004-01-08",
+        "end": "2015-06-16"
+      }
+    ],
+    "career": [
+      "First president with no prior military or government experience before taking office"
+    ],
+    "accomplishments": [
+      "Tax Cuts and Jobs Act (2017)",
+      "Appointed three Supreme Court justices in his first term",
+      "Brokered the Abraham Accords (2020)",
+      "Impeached twice by the House (2019, 2021); acquitted both times by the Senate",
+      "Second, non-consecutive term began January 20, 2025 — the second president to do so after Grover Cleveland"
+    ]
+  },
+  {
+    "num": [
+      46
+    ],
+    "name": "Joe Biden",
+    "party": "Democratic",
+    "born": "1942-11-20",
+    "died": null,
+    "terms": [
+      {
+        "start": "2021-01-20",
+        "end": "2025-01-20"
+      }
+    ],
+    "positions": [
+      {
+        "type": "career",
+        "label": "Lawyer, Delaware",
+        "start": "1969-01-01",
+        "end": "1972-12-31"
+      },
+      {
+        "type": "elected-federal",
+        "label": "U.S. Senate (DE)",
+        "start": "1973-01-03",
+        "end": "2009-01-15"
+      },
+      {
+        "type": "elected-federal",
+        "label": "Vice President of the United States",
+        "start": "2009-01-20",
+        "end": "2017-01-20"
+      }
+    ],
+    "career": [],
+    "accomplishments": [
+      "Infrastructure Investment and Jobs Act (2021)",
+      "CHIPS and Science Act (2022)",
+      "Oversaw the withdrawal of U.S. forces from Afghanistan (2021)",
+      "Oldest person inaugurated as president"
+    ]
+  }
+]

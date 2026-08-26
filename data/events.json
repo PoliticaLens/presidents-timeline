@@ -1,0 +1,54 @@
+[
+  {
+    "date": "1797-03-04",
+    "label": "Washington attends Adams's inauguration",
+    "note": "The first peaceful transfer of presidential power.",
+    "presidents": [
+      "George Washington",
+      "John Adams"
+    ]
+  },
+  {
+    "date": "1825-02-09",
+    "label": "J.Q. Adams elected by the House",
+    "note": "After no candidate won an Electoral College majority in the 1824 four-way race.",
+    "presidents": [
+      "John Quincy Adams",
+      "Andrew Jackson"
+    ]
+  },
+  {
+    "date": "1861-02-23",
+    "label": "Lincoln arrives secretly in Washington",
+    "note": "Amid assassination threats, ahead of his first inauguration.",
+    "presidents": [
+      "Abraham Lincoln",
+      "James Buchanan"
+    ]
+  },
+  {
+    "date": "1994-04-27",
+    "label": "Nixon's funeral",
+    "note": "Attended by all five living presidents at the time.",
+    "presidents": [
+      "Richard Nixon",
+      "Gerald Ford",
+      "Jimmy Carter",
+      "Ronald Reagan",
+      "George H. W. Bush",
+      "Bill Clinton"
+    ]
+  },
+  {
+    "date": "2013-04-25",
+    "label": "\"Five Presidents\" photo",
+    "note": "Carter, Bush 41, Clinton, Bush 43, and Obama together at the George W. Bush Presidential Library dedication.",
+    "presidents": [
+      "Jimmy Carter",
+      "George H. W. Bush",
+      "Bill Clinton",
+      "George W. Bush",
+      "Barack Obama"
+    ]
+  }
+]
