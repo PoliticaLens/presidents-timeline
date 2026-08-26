@@ -43,9 +43,9 @@
   --p-whig:         #4b7a72;
   --p-republican:   #8c4a3a;
 
-  --font-display: 'Playfair Display', serif;
-  --font-body: 'Bricolage Grotesque', sans-serif;
-  --font-mono: 'DM Mono', monospace;
+  --font-display: 'Fraunces', serif;
+  --font-body: 'Inter', sans-serif;
+  --font-mono: 'IBM Plex Mono', monospace;
 }
 
 body.light{
@@ -157,15 +157,15 @@ h1{
 }
 .content{ position: relative; }
 .row{ display:flex; width: max-content; }
-.row.axis-row{ position: sticky; top: 0; z-index: 6; background: var(--ink-2); border-bottom: 1px solid var(--brass-dim); }
+.row.axis-row{ position: sticky; top: 0; z-index: 11; background: var(--ink-2); border-bottom: 1px solid var(--brass-dim); }
 
 .label-cell{
-  position: sticky; left: 0; z-index: 3; width: 240px; flex: none;
+  position: sticky; left: 0; z-index: 10; width: 240px; flex: none;
   background: var(--ink); border-right: 1px solid var(--hair); padding: 6px 12px;
   display:flex; flex-direction:row; align-items:baseline; gap: 7px;
 }
 .axis-row .label-cell{
-  z-index: 7; background: var(--ink-2); border-right: 1px solid var(--brass-dim);
+  z-index: 12; background: var(--ink-2); border-right: 1px solid var(--brass-dim);
   font-family: var(--font-mono); font-size: 11px; color: var(--brass); letter-spacing: 0.08em; text-transform: uppercase;
 }
 .label-num{ flex: none; font-family: var(--font-mono); font-size: 10px; color: var(--brass); letter-spacing: 0.05em; }
@@ -175,15 +175,15 @@ h1{
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
 }
 .label-party{ flex: none; font-size: 10px; color: var(--paper-dim); }
- 
+
 .data-row{ position: relative; height: var(--row-h); border-bottom: 1px solid var(--hair); }
 .data-row:nth-child(even) .timeline-area{ background: var(--row-alt); }
 .data-row.dimmed{ opacity: 0.16; }
 .data-row.dimmed .label-cell{ opacity: 0.4; }
- 
+
 .timeline-area{ position: relative; height: 100%; }
 .axis-area{ position: relative; height: 44px; }
- 
+
 .war-layer{ position:absolute; top:0; left:0; pointer-events:none; z-index: 0; }
 .war-band{
   position:absolute; top:0; height:100%;
@@ -192,12 +192,12 @@ h1{
 }
 .war-label{ position:absolute; top:2px; left:4px; font-family: var(--font-mono); font-size: 9px; letter-spacing:0.06em; text-transform:uppercase; color: var(--paper-dim); white-space:nowrap; background: rgba(0,0,0,0.35); padding: 1px 4px; border-radius: 2px; }
 .war-layer.hidden{ display:none; }
- 
+
 .gridline{ position:absolute; top:0; bottom:0; width:1px; background: var(--hair); z-index: 0; }
 .gridline.century{ background: var(--brass-dim); }
 .tick-label{ position:absolute; top: 6px; font-family: var(--font-mono); font-size: 10px; color: var(--paper-dim); transform: translateX(-50%); white-space:nowrap; }
 .tick-label.century{ color: var(--brass); font-weight:600; }
- 
+
 /* ---- everything below overlaps on one shared vertical center per row ---- */
 .life-bar{
   position:absolute; height: 5px; border-radius: 3px;
@@ -205,7 +205,7 @@ h1{
   z-index: 1; cursor: pointer;
 }
 .life-bar.alive{ background: repeating-linear-gradient(90deg, var(--life-alive) 0 6px, transparent 6px 12px); border-color: rgba(184,146,90,0.45); }
- 
+
 .mil-bar, .job-bar, .office-bar{
   position:absolute; height: 15px; border-radius: 3px;
   z-index: 2; cursor:pointer; opacity: 0.94;
@@ -215,26 +215,26 @@ h1{
 .office-bar.type-elected-federal{ background: var(--fed-color); }
 .office-bar.type-elected-state{ background: var(--state-color); }
 .office-bar.type-appointed{ background: var(--appt-color); }
- 
+
 .term-bar{
   position:absolute; height: 23px; border-radius: 4px; z-index: 3; cursor: pointer;
   box-shadow: 0 0 0 1px rgba(0,0,0,0.4);
 }
 .term-bar:hover, .life-bar:hover, .mil-bar:hover, .job-bar:hover, .office-bar:hover{ filter: brightness(1.28); outline: 1px solid var(--brass); }
- 
+
 .term-end-mark{ position:absolute; width: 2px; z-index: 4; background: var(--brass); }
 .term-end-mark.assassinated{ background:#c0433a; }
 .term-end-mark.died{ background:#8a8a80; }
 .term-end-mark.resigned{ background:#c9a24a; }
- 
+
 .event-diamond{
   position:absolute; width: 8px; height: 8px; background: var(--brass); border: 1px solid var(--ink);
   transform: translateX(-4px) rotate(45deg); z-index: 5; cursor:pointer;
 }
 .event-diamond.hidden{ display:none; }
- 
+
 /* ---------- Tooltip ---------- */
- 
+
 #tooltip{
   position: fixed; max-width: 320px; background: var(--ink-2); border: 1px solid var(--brass-dim);
   border-radius: 6px; padding: 14px 16px; font-size: 12.5px; line-height: 1.5; color: var(--paper);
@@ -249,10 +249,10 @@ h1{
 #tooltip li{ margin-bottom: 2px; }
 #tooltip .tt-close{ position:absolute; top:8px; right:10px; cursor:pointer; color: var(--paper-dim); font-family: var(--font-mono); font-size:13px; display:none; }
 #tooltip.pinned .tt-close{ display:block; }
- 
+
 footer{ padding: 10px 32px 26px; color: var(--paper-dim); font-size: 11.5px; line-height:1.6; max-width: 760px; }
 footer code{ font-family: var(--font-mono); background: var(--ink-2); padding: 1px 5px; border-radius: 3px; color: var(--brass); }
- 
+
 @media (max-width: 720px){
   .label-cell{ width: 170px; }
   header, .controls, .board-wrap, footer, .lane-key{ padding-left:16px; padding-right:16px; }
