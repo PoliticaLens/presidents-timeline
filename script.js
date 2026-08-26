@@ -162,7 +162,7 @@ function render(){
   warLayer.style.top = AXIS_H + 'px';
   warLayer.style.width = width + 'px';
   warLayer.style.height = totalRowsHeight + 'px';
-  WARS.forEach(w=>{
+  WARS.forEach((w,i)=>{
     const x1 = xFor(w.start), x2 = xFor(w.end);
     const band = document.createElement('div');
     band.className = 'war-band';
@@ -170,6 +170,9 @@ function render(){
     band.style.width = Math.max(2, x2-x1) + 'px';
     const lbl = document.createElement('div');
     lbl.className = 'war-label';
+    // stagger labels onto two rows so wars close together in time
+    // (e.g. Afghanistan/Iraq) don't have their text collide
+    lbl.style.top = (2 + (i % 2) * 12) + 'px';
     lbl.textContent = w.name;
     band.appendChild(lbl);
     warLayer.appendChild(band);
