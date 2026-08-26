@@ -33,6 +33,7 @@ async function loadData(){
   PRESIDENTS = presidents;
   WARS = wars;
   EVENTS = events;
+  activeParties = new Set(Object.keys(PARTIES)); // must happen after PARTIES is populated
 }
 
 async function init(){
@@ -98,7 +99,7 @@ function fmtDate(d){
 function timelineWidthPx(){ return (TIMELINE_END - TIMELINE_START) * PX_PER_YEAR; }
 function nowStr(){ return String(new Date().getFullYear())+'-01-01'; }
 
-let activeParties = new Set(Object.keys(PARTIES));
+let activeParties = new Set(); // populated once PARTIES loads — see loadData()
 let showWars = true, showEvents = true, showLife = true, showMilitary = true, showCareer = true, showOffices = true;
 let searchTerm = '';
 let pinned = null;
