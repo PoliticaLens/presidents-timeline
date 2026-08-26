@@ -4,23 +4,23 @@
     "label": "Unaffiliated"
   },
   "Federalist": {
-    "color": "#6b3a3a",
+    "color": "#2E7044",
     "label": "Federalist"
   },
   "Democratic-Republican": {
-    "color": "#3a5a78",
+    "color": "#53A2B8",
     "label": "Democratic-Republican"
   },
   "Democratic": {
-    "color": "#35618a",
+    "color": "#003B77",
     "label": "Democratic"
   },
   "Whig": {
-    "color": "#4b7a72",
+    "color": "#F0DC82",
     "label": "Whig"
   },
   "Republican": {
-    "color": "#8c4a3a",
+    "color": "#E81B23",
     "label": "Republican"
   }
 }
