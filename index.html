@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>American Ledger — A Timeline of the Presidents</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,400;9..144,500;9..144,600;9..144,700&family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+<header>
+  <div class="header-text">
+    <p class="eyebrow">A Register of the Republic's Chief Magistrates</p>
+    <h1>American Ledger</h1>
+    <p class="subhead">Every president's full life — birth to death — with their military service, civilian career, and elected or appointed offices all layered onto one line, the presidential term itself bold on top. Wars run behind everyone as background bands. Hover any bar for the full entry; tap to pin it open.</p>
+  </div>
+  <div class="mode-toggle" id="modeToggle">☾ Dark mode</div>
+</header>
+
+<div class="controls">
+  <div class="group">
+    <button class="zoom-btn" id="zoomOut" title="Zoom out">–</button>
+    <button class="zoom-btn" id="zoomIn" title="Zoom in">+</button>
+    <button class="reset-btn" id="zoomReset">Reset view</button>
+  </div>
+  <div class="group">
+    <input class="search-box" id="searchBox" type="text" placeholder="Find a president…">
+  </div>
+  <div class="group">
+    <label><input type="checkbox" id="toggleWars" checked> Wars &amp; conflicts</label>
+    <label><input type="checkbox" id="toggleEvents" checked> Shared moments</label>
+    <label><input type="checkbox" id="toggleLife" checked> Full lifespan</label>
+    <label><input type="checkbox" id="toggleMilitary" checked> Military service</label>
+    <label><input type="checkbox" id="toggleCareer" checked> Career &amp; business</label>
+    <label><input type="checkbox" id="toggleOffices" checked> Elected &amp; appointed offices</label>
+  </div>
+  <div class="group" id="legendGroup"><!-- party legend chips injected here --></div>
+</div>
+
+<div class="lane-key">
+  <div class="item"><span class="swatch" style="background:var(--mil-color)"></span>Military service</div>
+  <div class="item"><span class="swatch" style="background:var(--career-color)"></span>Civilian career / business</div>
+  <div class="item"><span class="swatch" style="background:var(--state-color)"></span>State office</div>
+  <div class="item"><span class="swatch" style="background:var(--fed-color)"></span>Federal elected office</div>
+  <div class="item"><span class="swatch" style="background:var(--appt-color)"></span>Appointed office</div>
+  <div class="item"><span class="swatch" style="background:var(--brass); transform:rotate(45deg); width:8px; height:8px; border-radius:0;"></span>Shared moment</div>
+</div>
+
+<div class="board-wrap">
+  <div class="board" id="board">
+    <div class="content" id="content"></div>
+  </div>
+</div>
+
+<div id="tooltip">
+  <span class="tt-close" id="ttClose">✕</span>
+  <div class="tt-eyebrow" id="ttEyebrow"></div>
+  <h3 id="ttName"></h3>
+  <div class="tt-dates" id="ttDates"></div>
+  <div id="ttBody"></div>
+</div>
+
+<footer>
+  All the content lives in <code>data/presidents.json</code>, <code>data/wars.json</code>, and <code>data/events.json</code> —
+  edit dates, add positions, or add new shared moments there without touching <code>script.js</code> or this page.
+  Presidential term and life dates are precise to the day; earlier career/military/office dates are mostly
+  year-level approximations assembled from memory, not a live lookup — verify anything before publishing.
+  This page loads its data with <code>fetch()</code>, so it needs to be served (GitHub Pages, or a local
+  server) rather than opened directly as a file.
+</footer>
+
+
+
+<script src="script.js"></script>
+</body>
+</html>
