@@ -2,25 +2,31 @@
   "Unaffiliated": {
     "color": "#6e6e66",
     "label": "Unaffiliated"
+    "abbr": "U"
   },
   "Federalist": {
     "color": "#2E7044",
     "label": "Federalist"
+    "abbr": "F"
   },
   "Democratic-Republican": {
     "color": "#53A2B8",
     "label": "Democratic-Republican"
+    "abbr": "DR"
   },
   "Democratic": {
     "color": "#003B77",
     "label": "Democratic"
+    "abbr": "D"
   },
   "Whig": {
     "color": "#F0DC82",
     "label": "Whig"
+    "abbr": "W"
   },
   "Republican": {
     "color": "#E81B23",
     "label": "Republican"
+    "abbr": "R"
   }
 }
