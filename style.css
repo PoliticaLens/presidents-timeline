@@ -186,7 +186,7 @@ h1{
   background: repeating-linear-gradient(135deg, var(--war-a) 0px, var(--war-a) 6px, var(--war-b) 6px, var(--war-b) 12px);
   border-left: 1px solid var(--war-edge); border-right: 1px solid var(--war-edge);
 }
-.war-label{ position:absolute; top:2px; left:4px; font-family: var(--font-mono); font-size: 9px; letter-spacing:0.06em; text-transform:uppercase; color: var(--paper-dim); white-space:nowrap; }
+.war-label{ position:absolute; top:2px; left:4px; font-family: var(--font-mono); font-size: 9px; letter-spacing:0.06em; text-transform:uppercase; color: var(--paper-dim); white-space:nowrap; background: rgba(0,0,0,0.35); padding: 1px 4px; border-radius: 2px; }
 .war-layer.hidden{ display:none; }
 
 .gridline{ position:absolute; top:0; bottom:0; width:1px; background: var(--hair); z-index: 0; }
